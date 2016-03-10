@@ -1,2 +1,2 @@
-# HTMLGenerator
-Une librairie PHP très simple permettant de générer du HTML avec PHP.
+# HTMLHelper
+Un petit helper PHP très simple permettant de générer du HTML avec PHP.
