@@ -1,2 +1,2 @@
 # HTMLHelper
-Un petit helper PHP très simple permettant de générer du HTML avec PHP.
+This simple PHP helper helps generating HTML snippets with a PHP script.
